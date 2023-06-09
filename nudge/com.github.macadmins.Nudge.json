@@ -4,7 +4,7 @@
     "acceptableScreenSharingUsage": true,
     "aggressiveUserExperience": true,
     "aggressiveUserFullScreenExperience": true,
-    "asynchronousSoftwareUpdate": true,
+    "asynchronousSoftwareUpdate": false,
     "attemptToFetchMajorUpgrade": true,
     "enforceMinorUpdates": true
   },
