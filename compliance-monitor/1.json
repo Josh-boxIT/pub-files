@@ -7,7 +7,8 @@
             "name": "Mozilla Firefox"
         },
         {
-            "name": "Microsoft Office"
+            "name": "Microsoft Word",
+            "displayName": "Microsoft Office"
         },
         {
             "name": "WinSCP"
