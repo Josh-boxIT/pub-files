@@ -1,0 +1,60 @@
+{
+    "applications": [
+        {
+            "name": "Google Chrome"
+        },
+        {
+            "name": "Mozilla Firefox"
+        },
+        {
+            "name": "Microsoft Office"
+        },
+        {
+            "name": "WinSCP"
+        },
+        {
+            "name": "7-zip"
+        },
+        {
+            "name": "Slack"
+        },
+        {
+            "name": "Microsoft Teams"
+        },
+        {
+            "name": "CloudRadial Agent"
+        },
+        {
+            "name": "PuTTY"
+        },
+        {
+            "name": "ConnectWise Manage Client"
+        },
+        {
+            "name": "AutoElevate"
+        },
+        {
+            "name": "Arctic Wolf Agent"
+        },
+        {
+            "name": "Tailscale"
+        },
+        {
+            "name": "AutoElevate"
+        }
+    ],
+    "settings": {
+        "bitlocker": {
+            "enabled": true
+        },
+        "firewall": {
+            "enabled": true
+        },
+        "antivirus": {
+            "enabled": true,
+            "type": "Windows Defender",
+            "displayName": "Defender",
+            "boxIT_managed": true
+        }
+    }
+}
