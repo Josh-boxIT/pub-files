@@ -1,47 +1,56 @@
 {
     "applications": [
         {
-            "name": "Google Chrome"
+            "name": "Google Chrome",
+            "displayName": "Google Chrome"
         },
         {
-            "name": "Mozilla Firefox"
+            "name": "Mozilla Firefox",
+            "displayName": "Mozilla Firefox"
         },
         {
-            "name": "Microsoft Word",
+            "name": "Microsoft 365 Apps",
             "displayName": "Microsoft Office"
         },
         {
-            "name": "WinSCP"
+            "name": "WinSCP",
+            "displayName": "WinSCP"
         },
         {
-            "name": "7-zip"
+            "name": "7-zip",
+            "displayName": "7-zip"
         },
         {
-            "name": "Slack"
+            "name": "Slack",
+            "displayName": "Slack"
         },
         {
-            "name": "Microsoft Teams"
+            "name": "Microsoft Teams",
+            "displayName": "Microsoft Teams"
         },
         {
-            "name": "CloudRadial Agent"
+            "name": "CloudRadial Agent",
+            "displayName": "CloudRadial Agent"
         },
         {
-            "name": "PuTTY"
+            "name": "PuTTY",
+            "displayName": "PuTTY"
         },
         {
-            "name": "ConnectWise Manage Client"
+            "name": "ConnectWise Manage Client",
+            "displayName": "ConnectWise Manage Client"
         },
         {
-            "name": "AutoElevate"
+            "name": "AutoElevate",
+            "displayName": "AutoElevate"
         },
         {
-            "name": "Arctic Wolf Agent"
+            "name": "Arctic Wolf Agent",
+            "displayName": "Arctic Wolf Agent"
         },
         {
-            "name": "Tailscale"
-        },
-        {
-            "name": "AutoElevate"
+            "name": "Tailscale",
+            "displayName": "Tailscale"
         }
     ],
     "settings": {
