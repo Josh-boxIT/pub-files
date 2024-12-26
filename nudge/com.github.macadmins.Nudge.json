@@ -13,11 +13,11 @@
       "aboutUpdateURLs": [
         {
           "_language": "en",
-          "aboutUpdateURL": "https://support.apple.com/en-us/HT213895"
+          "aboutUpdateURL": "https://support.apple.com/en-us/120283"
         }
       ],
-      "requiredInstallationDate": "2024-08-26T00:00:01Z",
-      "requiredMinimumOSVersion": "14.6.1",
+      "requiredInstallationDate": "2024-01-26T00:00:01Z",
+      "requiredMinimumOSVersion": "15.2",
       "targetedOSVersionsRule": "default"
     }
   ],
