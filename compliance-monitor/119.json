@@ -2,55 +2,68 @@
     "applications": [
         {
             "name": "Google Chrome",
-            "displayName": "Google Chrome"
+            "displayName": "Google Chrome",
+            "neededForCompliance": false
         },
         {
             "name": "Mozilla Firefox",
-            "displayName": "Mozilla Firefox"
+            "displayName": "Mozilla Firefox",
+            "neededForCompliance": false
         },
         {
             "name": "Microsoft 365 Apps",
-            "displayName": "Microsoft Office"
+            "displayName": "Microsoft Office",
+            "neededForCompliance": false
         },
         {
             "name": "7-zip",
-            "displayName": "7-zip"
+            "displayName": "7-zip",
+            "neededForCompliance": false
         },
         {
             "name": "Slack",
-            "displayName": "Slack"
+            "displayName": "Slack",
+            "neededForCompliance": false
         },
         {
             "name": "Microsoft Teams",
-            "displayName": "Microsoft Teams"
+            "displayName": "Microsoft Teams",
+            "neededForCompliance": false
         },
         {
             "name": "CloudRadial Agent",
-            "displayName": "CloudRadial Agent"
+            "displayName": "CloudRadial Agent",
+            "neededForCompliance": false
         },
         {
             "name": "Adobe Acrobat (64-bit)",
-            "displayName": "Adobe Acrobat"
+            "displayName": "Adobe Acrobat",
+            "neededForCompliance": false
         },
         {
             "name": "Umbrella Roaming Client (x86)",
-            "displayName": "Cisco Umbrella"
+            "displayName": "Cisco Umbrella",
+            "neededForCompliance": true
         },
         {
             "name": "Make Me Admin",
-            "displayName": "Make Me Admin"
+            "displayName": "Make Me Admin",
+            "neededForCompliance": true
         },
         {
             "name": "SlashNextPhishingProtection",
-            "displayName": "SlashNext"
+            "displayName": "SlashNext",
+            "neededForCompliance": true
         },
         {
             "name": "Okta Verify",
-            "displayName": "Okta Verify"
+            "displayName": "Okta Verify",
+            "neededForCompliance": true
         },
         {
             "name": "Wazuh Agent",
-            "displayName": "Wazuh Agent"
+            "displayName": "Wazuh Agent",
+            "neededForCompliance": true
         }
     ],
     "settings": {

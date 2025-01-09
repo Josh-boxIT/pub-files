@@ -2,55 +2,68 @@
     "applications": [
         {
             "name": "Google Chrome",
-            "displayName": "Google Chrome"
+            "displayName": "Google Chrome",
+            "neededForCompliance": false
         },
         {
             "name": "Mozilla Firefox",
-            "displayName": "Mozilla Firefox"
+            "displayName": "Mozilla Firefox",
+            "neededForCompliance": false
         },
         {
             "name": "Microsoft 365 Apps",
-            "displayName": "Microsoft Office"
+            "displayName": "Microsoft Office",
+            "neededForCompliance": false
         },
         {
             "name": "WinSCP",
-            "displayName": "WinSCP"
+            "displayName": "WinSCP",
+            "neededForCompliance": false
         },
         {
             "name": "7-zip",
-            "displayName": "7-zip"
+            "displayName": "7-zip",
+            "neededForCompliance": false
         },
         {
             "name": "Slack",
-            "displayName": "Slack"
+            "displayName": "Slack",
+            "neededForCompliance": false
         },
         {
             "name": "Microsoft Teams",
-            "displayName": "Microsoft Teams"
+            "displayName": "Microsoft Teams",
+            "neededForCompliance": false
         },
         {
             "name": "CloudRadial Agent",
-            "displayName": "CloudRadial Agent"
+            "displayName": "CloudRadial Agent",
+            "neededForCompliance": true
         },
         {
             "name": "PuTTY",
-            "displayName": "PuTTY"
+            "displayName": "PuTTY",
+            "neededForCompliance": false
         },
         {
             "name": "ConnectWise Manage Client",
-            "displayName": "ConnectWise Manage Client"
+            "displayName": "ConnectWise Manage Client",
+            "neededForCompliance": false
         },
         {
             "name": "AutoElevate",
-            "displayName": "AutoElevate"
+            "displayName": "AutoElevate",
+            "neededForCompliance": true
         },
         {
             "name": "Arctic Wolf Agent",
-            "displayName": "Arctic Wolf Agent"
+            "displayName": "Arctic Wolf Agent",
+            "neededForCompliance": true
         },
         {
             "name": "Tailscale",
-            "displayName": "Tailscale"
+            "displayName": "Tailscale",
+            "neededForCompliance": true
         }
     ],
     "settings": {
