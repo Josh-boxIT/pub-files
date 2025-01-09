@@ -1,0 +1,74 @@
+{
+    "applications": [
+        {
+            "name": "Google Chrome",
+            "displayName": "Google Chrome"
+        },
+        {
+            "name": "Mozilla Firefox",
+            "displayName": "Mozilla Firefox"
+        },
+        {
+            "name": "Microsoft 365 Apps",
+            "displayName": "Microsoft Office"
+        },
+        {
+            "name": "7-zip",
+            "displayName": "7-zip"
+        },
+        {
+            "name": "Slack",
+            "displayName": "Slack"
+        },
+        {
+            "name": "Microsoft Teams",
+            "displayName": "Microsoft Teams"
+        },
+        {
+            "name": "CloudRadial Agent",
+            "displayName": "CloudRadial Agent"
+        },
+        {
+            "name": "Adobe Acrobat (64-bit)",
+            "displayName": "Adobe Acrobat"
+        },
+        {
+            "name": "Umbrella Roaming Client (x86)",
+            "displayName": "Cisco Umbrella"
+        },
+        {
+            "name": "Make Me Admin",
+            "displayName": "Make Me Admin"
+        },
+        {
+            "name": "SlashNextPhishingProtection",
+            "displayName": "SlashNext"
+        },
+        {
+            "name": "Okta Verify",
+            "displayName": "Okta Verify"
+        },
+        {
+            "name": "Wazuh Agent",
+            "displayName": "Wazuh Agent"
+        }
+    ],
+    "settings": {
+        "bitlocker": {
+            "enabled": true
+        },
+        "firewall": {
+            "enabled": true
+        },
+        "antivirus": {
+            "enabled": true,
+            "type": "Sophos",
+            "displayName": "Sophos",
+            "boxIT_managed": true
+        },
+        "screenLock": {
+            "enabled": true,
+            "timeout": 2
+        }
+    }
+}
