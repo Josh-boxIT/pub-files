@@ -55,7 +55,7 @@
     ],
     "settings": {
         "bitlocker": {
-            "enabled": false
+            "enabled": true
         },
         "firewall": {
             "enabled": true
