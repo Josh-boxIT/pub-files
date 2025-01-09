@@ -67,7 +67,7 @@
             "boxIT_managed": true
         },
         "screenLock": {
-            "enabled": true,
+            "enabled": false,
             "timeout": 2
         }
     }
