@@ -28,7 +28,7 @@
         {
             "name": "Slack",
             "displayName": "Slack",
-            "neededForCompliance": false
+            "neededForCompliance": true
         },
         {
             "name": "Microsoft Teams",
