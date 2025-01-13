@@ -1,0 +1,32 @@
+{
+    "applications": [
+        {
+            "name": "CloudRadial Agent",
+            "displayName": "CloudRadial Agent",
+            "neededForCompliance": false
+        },
+        {
+            "name": "Wazuh Agent",
+            "displayName": "Wazuh Agent",
+            "neededForCompliance": true
+        }
+    ],
+    "settings": {
+        "bitlocker": {
+            "enabled": false
+        },
+        "firewall": {
+            "enabled": true
+        },
+        "antivirus": {
+            "enabled": true,
+            "type": "Sophos",
+            "displayName": "Sophos",
+            "boxIT_managed": true
+        },
+        "screenLock": {
+            "enabled": true,
+            "timeout": 2
+        }
+    }
+}
