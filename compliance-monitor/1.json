@@ -82,6 +82,10 @@
         "screenLock": {
             "enabled": false,
             "timeout": 2
+        },
+        "legalMessage": {
+            "enabled": false,
+            "message": ""
         }
     }
 }
