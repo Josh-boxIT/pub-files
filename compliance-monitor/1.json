@@ -85,7 +85,7 @@
         },
         "legalMessage": {
             "enabled": false,
-            "message": ""
+            "message": "This computer system is the property of Clarify Health. It is for authorized use only. By using this system, all users acknowledge notice of, and agree to comply with, the company’s Policies. Unauthorized or improper use of this system may result in administrative disciplinary action, civil charges/criminal penalties, and/or other sanctions. By continuing to use this system you indicate your awareness of and consent to these terms and conditions of use."
         }
     }
 }
