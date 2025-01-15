@@ -1,0 +1,86 @@
+{
+    "applications": [
+        {
+            "name": "Google Chrome",
+            "displayName": "Google Chrome",
+            "neededForCompliance": false
+        },
+        {
+            "name": "Microsoft 365 Apps",
+            "displayName": "Microsoft Office",
+            "neededForCompliance": false
+        },
+        {
+            "name": "Zoom",
+            "displayName": "Zoom",
+            "neededForCompliance": false
+        },
+        {
+            "name": "KLayout",
+            "displayName": "KLayout",
+            "neededForCompliance": false
+        },
+        {
+            "name": "RealVNC",
+            "displayName": "RealVNC",
+            "neededForCompliance": false
+        },
+        {
+            "name": "WinSCP",
+            "displayName": "WinSCP",
+            "neededForCompliance": false
+        },
+        {
+            "name": "Microsoft Teams",
+            "displayName": "Microsoft Teams",
+            "neededForCompliance": false
+        },
+        {
+            "name": "PuTTY",
+            "displayName": "PuTTY",
+            "neededForCompliance": false
+        },
+        {
+            "name": "Tailscale",
+            "displayName": "Tailscale",
+            "neededForCompliance": true
+        },
+        {
+            "name": "CloudRadial Agent",
+            "displayName": "CloudRadial Agent",
+            "neededForCompliance": true
+        },
+        {
+            "name": "AutoElevate",
+            "displayName": "AutoElevate",
+            "neededForCompliance": true
+        },
+        {
+            "name": "Arctic Wolf Agent",
+            "displayName": "Arctic Wolf Agent",
+            "neededForCompliance": true
+        }
+    ],
+    "settings": {
+        "bitlocker": {
+            "enabled": true
+        },
+        "firewall": {
+            "enabled": true
+        },
+        "antivirus": {
+            "enabled": true,
+            "type": "Sophos",
+            "displayName": "Sophos",
+            "boxIT_managed": true
+        },
+        "screenLock": {
+            "enabled": false,
+            "timeout": 0
+        },
+        "legalMessage": {
+            "enabled": false,
+            "message": ""
+        }
+    }
+}
