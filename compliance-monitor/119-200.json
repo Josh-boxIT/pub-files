@@ -1,0 +1,91 @@
+{
+    "applications": [
+        {
+            "name": "Google Chrome",
+            "displayName": "Google Chrome",
+            "neededForCompliance": false
+        },
+        {
+            "name": "Mozilla Firefox",
+            "displayName": "Mozilla Firefox",
+            "neededForCompliance": false
+        },
+        {
+            "name": "Microsoft 365 Apps",
+            "displayName": "Microsoft Office",
+            "neededForCompliance": false
+        },
+        {
+            "name": "7-zip",
+            "displayName": "7-zip",
+            "neededForCompliance": false
+        },
+        {
+            "name": "Slack",
+            "displayName": "Slack",
+            "neededForCompliance": false
+        },
+        {
+            "name": "Microsoft Teams",
+            "displayName": "Microsoft Teams",
+            "neededForCompliance": false
+        },
+        {
+            "name": "Adobe Acrobat (64-bit)",
+            "displayName": "Adobe Acrobat",
+            "neededForCompliance": false
+        },
+        {
+            "name": "CloudRadial Agent",
+            "displayName": "CloudRadial Agent",
+            "neededForCompliance": false
+        },
+        {
+            "name": "Umbrella Roaming Client (x86)",
+            "displayName": "Cisco Umbrella",
+            "neededForCompliance": true
+        },
+        {
+            "name": "Make Me Admin",
+            "displayName": "Make Me Admin",
+            "neededForCompliance": true
+        },
+        {
+            "name": "SlashNextPhishingProtection",
+            "displayName": "SlashNext",
+            "neededForCompliance": true
+        },
+        {
+            "name": "Okta Verify",
+            "displayName": "Okta Verify",
+            "neededForCompliance": true
+        },
+        {
+            "name": "Wazuh Agent",
+            "displayName": "Wazuh Agent",
+            "neededForCompliance": true
+        }
+    ],
+    "settings": {
+        "bitlocker": {
+            "enabled": false
+        },
+        "firewall": {
+            "enabled": true
+        },
+        "antivirus": {
+            "enabled": true,
+            "type": "Sophos",
+            "displayName": "Sophos",
+            "boxIT_managed": true
+        },
+        "screenLock": {
+            "enabled": false,
+            "timeout": 0
+        },
+        "legalMessage": {
+            "enabled": true,
+            "message": "This computer system is the property of Clarify Health. It is for authorized use only. By using this system, all users acknowledge notice of, and agree to comply with, the company’s Policies. Unauthorized or improper use of this system may result in administrative disciplinary action, civil charges/criminal penalties, and/or other sanctions. By continuing to use this system you indicate your awareness of and consent to these terms and conditions of use."
+        }
+    }
+}
