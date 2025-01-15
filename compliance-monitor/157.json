@@ -48,16 +48,11 @@
         {
             "name": "CloudRadial Agent",
             "displayName": "CloudRadial Agent",
-            "neededForCompliance": true
+            "neededForCompliance": false
         },
         {
             "name": "AutoElevate",
             "displayName": "AutoElevate",
-            "neededForCompliance": true
-        },
-        {
-            "name": "Arctic Wolf Agent",
-            "displayName": "Arctic Wolf Agent",
             "neededForCompliance": true
         }
     ],
