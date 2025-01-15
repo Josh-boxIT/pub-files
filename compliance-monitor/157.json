@@ -46,11 +46,6 @@
             "neededForCompliance": true
         },
         {
-            "name": "CloudRadial Agent",
-            "displayName": "CloudRadial Agent",
-            "neededForCompliance": false
-        },
-        {
             "name": "AutoElevate",
             "displayName": "AutoElevate",
             "neededForCompliance": true
