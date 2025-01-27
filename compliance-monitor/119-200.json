@@ -75,7 +75,7 @@
         },
         "antivirus": {
             "enabled": true,
-            "type": "CrowdStrike Windows Sensor",
+            "type": "CrowdStrike",
             "displayName": "Crowdstrike",
             "boxIT_managed": true
         },
