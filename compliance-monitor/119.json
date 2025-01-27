@@ -75,8 +75,8 @@
         },
         "antivirus": {
             "enabled": true,
-            "type": "Sophos",
-            "displayName": "Sophos",
+            "type": "CrowdStrike Windows Sensor",
+            "displayName": "Crowdstrike",
             "boxIT_managed": true
         },
         "screenLock": {
