@@ -42,7 +42,7 @@
     "screenShotDarkPath": "/tmp/nudge/updateDark.png",
     "screenShotLightPath": "/tmp/nudge/updateLight.png",
     "showDeferralCount": true,
-    "simpleMode": false,
+    "simpleMode": true,
     "singleQuitButton": false,
     "updateElements": [
       {
