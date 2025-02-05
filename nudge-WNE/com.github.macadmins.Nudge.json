@@ -16,7 +16,7 @@
           "aboutUpdateURL": "https://support.apple.com/en-us/120283"
         }
       ],
-      "requiredInstallationDate": "2024-03-03T00:00:01Z",
+      "requiredInstallationDate": "2025-03-03T00:00:01Z",
       "requiredMinimumOSVersion": "14.7.3",
       "targetedOSVersionsRule": "default"
     }
