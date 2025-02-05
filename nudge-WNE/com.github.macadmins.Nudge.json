@@ -17,7 +17,7 @@
         }
       ],
       "requiredInstallationDate": "2025-03-03T00:00:00",
-      "requiredMinimumOSVersion": "14.7.3",
+      "requiredMinimumOSVersion": "latest-minor",
       "targetedOSVersionsRule": "default"
     }
   ],
@@ -30,7 +30,7 @@
     "initialRefreshCycle": 18000,
     "maxRandomDelayInSeconds": 1200,
     "noTimers": false,
-    "nudgeRefreshCycle": 60,
+    "nudgeRefreshCycle": 120,
     "randomDelay": false
   },
   "userInterface": {
