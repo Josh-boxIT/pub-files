@@ -1,0 +1,71 @@
+{
+    "applications": [
+        {
+            "name": "Adobe Acrobat (64-bit)",
+            "displayName": "Adobe Acrobat",
+            "neededForCompliance": false
+        },
+        {
+            "name": "Zoom",
+            "displayName": "Zoom",
+            "neededForCompliance": false
+        },
+        {
+            "name": "PaperCut MF Client",
+            "displayName": "Papercut",
+            "neededForCompliance": true
+        },
+        {
+            "name": "Slack",
+            "displayName": "Slack",
+            "neededForCompliance": false
+        },
+        {
+            "name": "Google Chrome",
+            "displayName": "Google Chrome",
+            "neededForCompliance": false
+        },
+        {
+            "name": "Mozilla Firefox",
+            "displayName": "Mozilla Firefox",
+            "neededForCompliance": false
+        },
+        {
+            "name": "RingCentral",
+            "displayName": "RingCentral",
+            "neededForCompliance": false
+        },
+        {
+            "name": "Microsoft 365 Apps",
+            "displayName": "Microsoft Office",
+            "neededForCompliance": false
+        },
+        {
+            "name": "KnowBe4 Phish Alert Button",
+            "displayName": "KnowBe4",
+            "neededForCompliance": false
+        }
+    ],
+    "settings": {
+        "bitlocker": {
+            "enabled": true
+        },
+        "firewall": {
+            "enabled": true
+        },
+        "antivirus": {
+            "enabled": true,
+            "type": "Crowdstrike",
+            "displayName": "Crowdstrike",
+            "boxIT_managed": false
+        },
+        "screenLock": {
+            "enabled": false,
+            "timeout": 0
+        },
+        "legalMessage": {
+            "enabled": false,
+            "message": ""
+        }
+    }
+}
