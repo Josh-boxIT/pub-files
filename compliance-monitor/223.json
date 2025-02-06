@@ -55,7 +55,7 @@
         },
         "legalMessage": {
             "enabled": false,
-            "message": ""
+            "message": "This is a placeholder legal message."
         }
     }
 }
