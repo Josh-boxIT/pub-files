@@ -1,0 +1,36 @@
+{
+    "applications": [
+        {
+            "name": "CloudRadial Agent",
+            "displayName": "CloudRadial Agent",
+            "neededForCompliance": true
+        },
+        {
+            "name": "AutoElevate",
+            "displayName": "AutoElevate",
+            "neededForCompliance": true
+        }
+    ],
+    "settings": {
+        "bitlocker": {
+            "enabled": true
+        },
+        "firewall": {
+            "enabled": true
+        },
+        "antivirus": {
+            "enabled": true,
+            "type": "Crowdstrike",
+            "displayName": "Crowdstrike",
+            "boxIT_managed": true
+        },
+        "screenLock": {
+            "enabled": true,
+            "timeout": 15
+        },
+        "legalMessage": {
+            "enabled": false,
+            "message": ""
+        }
+    }
+}

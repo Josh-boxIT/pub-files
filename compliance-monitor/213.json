@@ -1,0 +1,51 @@
+{
+    "applications": [
+        {
+            "name": "Google Chrome",
+            "displayName": "Google Chrome",
+            "neededForCompliance": false
+        },
+        {
+            "name": "Slack",
+            "displayName": "Slack",
+            "neededForCompliance": false
+        },
+        {
+            "name": "Zoom",
+            "displayName": "Zoom",
+            "neededForCompliance": false
+        },
+        {
+            "name": "Microsoft 365 Apps",
+            "displayName": "Microsoft Office",
+            "neededForCompliance": false
+        },
+        {
+            "name": "CloudRadial Agent",
+            "displayName": "CloudRadial Agent",
+            "neededForCompliance": false
+        }
+    ],
+    "settings": {
+        "bitlocker": {
+            "enabled": true
+        },
+        "firewall": {
+            "enabled": false
+        },
+        "antivirus": {
+            "enabled": true,
+            "type": "Malwarebytes",
+            "displayName": "Malwarebytes",
+            "boxIT_managed": true
+        },
+        "screenLock": {
+            "enabled": false,
+            "timeout": 0
+        },
+        "legalMessage": {
+            "enabled": false,
+            "message": ""
+        }
+    }
+}

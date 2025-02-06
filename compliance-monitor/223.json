@@ -1,0 +1,61 @@
+{
+    "applications": [
+        {
+            "name": "Google Chrome",
+            "displayName": "Google Chrome",
+            "neededForCompliance": false
+        },
+        {
+            "name": "Adobe Acrobat (64-bit)",
+            "displayName": "Adobe Acrobat",
+            "neededForCompliance": false
+        },
+        {
+            "name": "Box for Office",
+            "displayName": "Box for Office",
+            "neededForCompliance": false
+        },
+        {
+            "name": "Box Tools",
+            "displayName": "Box Tools",
+            "neededForCompliance": false
+        },
+        {
+            "name": "ATT Office@Home",
+            "displayName": "AT&T Office@Hand",
+            "neededForCompliance": false
+        },
+        {
+            "name": "CloudRadial Agent",
+            "displayName": "CloudRadial Agent",
+            "neededForCompliance": true
+        },
+        {
+            "name": "AutoElevate",
+            "displayName": "AutoElevate",
+            "neededForCompliance": true
+        }
+    ],
+    "settings": {
+        "bitlocker": {
+            "enabled": true
+        },
+        "firewall": {
+            "enabled": false
+        },
+        "antivirus": {
+            "enabled": true,
+            "type": "Crowdstrike",
+            "displayName": "Crowdstrike",
+            "boxIT_managed": true
+        },
+        "screenLock": {
+            "enabled": false,
+            "timeout": 0
+        },
+        "legalMessage": {
+            "enabled": false,
+            "message": ""
+        }
+    }
+}
