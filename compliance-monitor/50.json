@@ -1,0 +1,46 @@
+{
+    "applications": [
+        {
+            "name": "Microsoft Teams",
+            "displayName": "Microsoft Teams",
+            "neededForCompliance": false
+        },
+        {
+            "name": "GlobalProtect",
+            "displayName": "GlobalProtect",
+            "neededForCompliance": true
+        },
+        {
+            "name": "AutoElevate",
+            "displayName": "AutoElevate",
+            "neededForCompliance": false
+        },
+        {
+            "name": "Vanta Agent",
+            "displayName": "Vanta",
+            "neededForCompliance": true
+        }
+    ],
+    "settings": {
+        "bitlocker": {
+            "enabled": true
+        },
+        "firewall": {
+            "enabled": true
+        },
+        "antivirus": {
+            "enabled": true,
+            "type": "Crowdstrike",
+            "displayName": "Crowdstrike",
+            "boxIT_managed": true
+        },
+        "screenLock": {
+            "enabled": true,
+            "timeout": 15
+        },
+        "legalMessage": {
+            "enabled": false,
+            "message": ""
+        }
+    }
+}
