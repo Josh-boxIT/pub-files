@@ -1,0 +1,51 @@
+{
+    "applications": [
+        {
+            "name": "Adobe Acrobat (64-bit)",
+            "displayName": "Adobe Acrobat",
+            "neededForCompliance": false
+        },
+        {
+            "name": "Google Chrome",
+            "displayName": "Google Chrome",
+            "neededForCompliance": false
+        },
+        {
+            "name": "Microsoft 365 Apps",
+            "displayName": "Microsoft Office",
+            "neededForCompliance": false
+        },
+        {
+            "name": "CloudRadial Agent",
+            "displayName": "CloudRadial Agent",
+            "neededForCompliance": true
+        },
+        {
+            "name": "AutoElevate",
+            "displayName": "AutoElevate",
+            "neededForCompliance": true
+        }
+    ],
+    "settings": {
+        "bitlocker": {
+            "enabled": true
+        },
+        "firewall": {
+            "enabled": true
+        },
+        "antivirus": {
+            "enabled": true,
+            "type": "Sophos",
+            "displayName": "Sophos",
+            "boxIT_managed": true
+        },
+        "screenLock": {
+            "enabled": true,
+            "timeout": 10
+        },
+        "legalMessage": {
+            "enabled": false,
+            "message": ""
+        }
+    }
+}
