@@ -1,0 +1,46 @@
+{
+    "applications": [
+        {
+            "name": "Google Chrome",
+            "displayName": "Google Chrome",
+            "neededForCompliance": false
+        },
+        {
+            "name": "Mozilla Firefox",
+            "displayName": "Mozilla Firefox",
+            "neededForCompliance": false
+        },
+        {
+            "name": "WinSCP",
+            "displayName": "WinSCP",
+            "neededForCompliance": false
+        },
+        {
+            "name": "PuTTY",
+            "displayName": "PuTTY",
+            "neededForCompliance": false
+        }
+    ],
+    "settings": {
+        "bitlocker": {
+            "enabled": false
+        },
+        "firewall": {
+            "enabled": false
+        },
+        "antivirus": {
+            "enabled": true,
+            "type": "Windows Defender",
+            "displayName": "Defender",
+            "boxIT_managed": true
+        },
+        "screenLock": {
+            "enabled": false,
+            "timeout": 2
+        },
+        "legalMessage": {
+            "enabled": false,
+            "message": ""
+        }
+    }
+}
