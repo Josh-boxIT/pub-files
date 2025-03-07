@@ -56,11 +56,6 @@
             "neededForCompliance": true
         },
         {
-            "name": "Arctic Wolf Agent",
-            "displayName": "Arctic Wolf Agent",
-            "neededForCompliance": true
-        },
-        {
             "name": "Tailscale",
             "displayName": "Tailscale",
             "neededForCompliance": true
