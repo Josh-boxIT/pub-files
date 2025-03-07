@@ -41,9 +41,9 @@
             "neededForCompliance": false
         },
         {
-            "name": "Umbrella Roaming Client (x86)",
+            "name": "Cisco Secure Client - Umbrella",
             "displayName": "Cisco Umbrella",
-            "neededForCompliance": true
+            "neededForCompliance": false
         },
         {
             "name": "Make Me Admin",
