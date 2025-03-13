@@ -1,0 +1,51 @@
+{
+    "applications": [
+        {
+            "name": "Google Chrome",
+            "displayName": "Google Chrome",
+            "neededForCompliance": false
+        },
+        {
+            "name": "Adobe Acrobat (64-bit)",
+            "displayName": "Adobe Acrobat",
+            "neededForCompliance": false
+        },
+        {
+            "name": "GoTo Opener",
+            "displayName": "GoTo Opener",
+            "neededForCompliance": false
+        },
+        {
+            "name": "Microsoft 365 Apps",
+            "displayName": "Microsoft Office",
+            "neededForCompliance": false
+        },
+        {
+            "name": "Java 8",
+            "displayName": "Java 8",
+            "neededForCompliance": false
+        }
+    ],
+    "settings": {
+        "bitlocker": {
+            "enabled": false
+        },
+        "firewall": {
+            "enabled": false
+        },
+        "antivirus": {
+            "enabled": true,
+            "type": "Huntress",
+            "displayName": "Huntress",
+            "boxIT_managed": true
+        },
+        "screenLock": {
+            "enabled": false,
+            "timeout": 2
+        },
+        "legalMessage": {
+            "enabled": false,
+            "message": ""
+        }
+    }
+}
