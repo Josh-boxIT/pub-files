@@ -16,7 +16,7 @@
           "aboutUpdateURL": "https://support.apple.com/en-us/120283"
         }
       ],
-      "requiredInstallationDate": "2025-04-30T00:00:00",
+      "requiredInstallationDate": "2025-05-31T00:00:00",
       "requiredMinimumOSVersion": "15.4.1",
       "targetedOSVersionsRule": "default"
     }
