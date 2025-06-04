@@ -1,0 +1,14 @@
+<Configuration ID="b443ec07-0a15-40bb-8896-6b0393bd408a">
+  <Add OfficeClientEdition="64" Channel="Current">
+    <Product ID="ProjectProRetail">
+      <Language ID="en-us" />
+    </Product>
+  </Add>
+  <Property Name="SharedComputerLicensing" Value="0" />
+  <Property Name="FORCEAPPSHUTDOWN" Value="FALSE" />
+  <Property Name="DeviceBasedLicensing" Value="0" />
+  <Property Name="SCLCacheOverride" Value="0" />
+  <Property Name="TenantId" Value="a0a234a7-88d7-42e1-af2b-09c67104f87e" />
+  <Updates Enabled="TRUE" />
+  <Display Level="None" AcceptEULA="TRUE" />
+</Configuration>
