@@ -1,0 +1,25 @@
+{
+    "applications": [],
+    "settings": {
+        "bitlocker": {
+            "enabled": false
+        },
+        "firewall": {
+            "enabled": false
+        },
+        "antivirus": {
+            "enabled": true,
+            "type": "Crowdstrike",
+            "displayName": "Crowdstrike",
+            "boxIT_managed": true
+        },
+        "screenLock": {
+            "enabled": false,
+            "timeout": 15
+        },
+        "legalMessage": {
+            "enabled": false,
+            "message": ""
+        }
+    }
+}
