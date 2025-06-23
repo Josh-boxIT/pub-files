@@ -20,8 +20,8 @@
         },
         "antivirus": {
             "enabled": true,
-            "type": "Huntress",
-            "displayName": "Huntress",
+            "type": "Microsoft Defender Antivirus",
+            "displayName": "Microsoft Defender Antivirus",
             "boxIT_managed": true
         },
         "screenLock": {
