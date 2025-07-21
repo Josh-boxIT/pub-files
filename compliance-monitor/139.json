@@ -1,0 +1,81 @@
+{
+    "applications": [
+        {
+            "name": "Google Chrome",
+            "displayName": "Google Chrome",
+            "neededForCompliance": false
+        },
+        {
+            "name": "Dialpad Machine-Wide Installer",
+            "displayName": "Dialpad",
+            "neededForCompliance": false
+        },
+        {
+            "name": "Tailscale",
+            "displayName": "Tailscale",
+            "neededForCompliance": true
+        },
+        {
+            "name": "Microsoft SQL Server Management Studio",
+            "displayName": "SQL Server Management Studio",
+            "neededForCompliance": false
+        },
+        {
+            "name": "Adobe Acrobat (64-bit)",
+            "displayName": "Adobe Acrobat",
+            "neededForCompliance": false
+        },
+        {
+            "name": "Microsoft SQL Server 2012 Native Client",
+            "displayName": "SQL Server 2012 Native Client",
+            "neededForCompliance": true
+        },
+        {
+            "name": "Microsoft 365 Apps",
+            "displayName": "Microsoft Office",
+            "neededForCompliance": false
+        },
+        {
+            "name": "Microsoft Teams",
+            "displayName": "Microsoft Teams",
+            "neededForCompliance": false
+        },
+        {
+            "name": "Citrix Workspace",
+            "displayName": "Citrix Workspace",
+            "neededForCompliance": true
+        },
+        {
+            "name": "AutoElevate",
+            "displayName": "AutoElevate",
+            "neededForCompliance": true
+        },
+        {
+            "name": "CloudRadial Agent",
+            "displayName": "CloudRadial Agent",
+            "neededForCompliance": false
+        }
+    ],
+    "settings": {
+        "bitlocker": {
+            "enabled": true
+        },
+        "firewall": {
+            "enabled": false
+        },
+        "antivirus": {
+            "enabled": true,
+            "type": "Sophos",
+            "displayName": "Sophos",
+            "boxIT_managed": true
+        },
+        "screenLock": {
+            "enabled": true,
+            "timeout": 3
+        },
+        "legalMessage": {
+            "enabled": false,
+            "message": ""
+        }
+    }
+}
