@@ -24,6 +24,11 @@
             "name": "Java 8",
             "displayName": "Java 8",
             "neededForCompliance": false
+        },
+        {
+            "name": "CloudRadial Agent",
+            "displayName": "CloudRadial Agent",
+            "neededForCompliance": false
         }
     ],
     "settings": {

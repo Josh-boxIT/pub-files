@@ -24,6 +24,11 @@
             "name": "AutoElevate",
             "displayName": "AutoElevate",
             "neededForCompliance": false
+        },
+        {
+            "name": "CloudRadial Agent",
+            "displayName": "CloudRadial Agent",
+            "neededForCompliance": false
         }
     ],
     "settings": {
