@@ -17,7 +17,7 @@
           "aboutUpdateURL": "https://support.apple.com/en-us/122868"
         }
       ],
-      "requiredInstallationDate": "2026-01-08T00:00:00",
+      "requiredInstallationDate": "2026-01-08T18:00:00",
       "requiredMinimumOSVersion": "26.2",
       "targetedOSVersionsRule": "default"
     }
@@ -47,6 +47,7 @@
     "showDeferralCount": true,
     "simpleMode": false,
     "singleQuitButton": false,
+    "showRequiredDate": true,
     "updateElements": [
       {
         "_language": "en",
