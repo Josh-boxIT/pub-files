@@ -32,8 +32,7 @@
     "maxRandomDelayInSeconds": 1200,
     "noTimers": false,
     "nudgeRefreshCycle": 120,
-    "randomDelay": true,
-    "nudgeMajorUpgradeEventLaunchDelay": 30
+    "randomDelay": true
   },
   "userInterface": {
     "fallbackLanguage": "en",
