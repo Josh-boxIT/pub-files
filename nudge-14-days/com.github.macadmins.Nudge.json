@@ -47,6 +47,7 @@
     "simpleMode": false,
     "singleQuitButton": false,
     "showRequiredDate": true,
+    "showDeferralCount": false,
     "updateElements": [
       {
         "_language": "en",
