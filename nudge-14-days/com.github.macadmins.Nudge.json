@@ -43,11 +43,10 @@
     "iconLightPath": "https://res.cloudinary.com/dpjh8bhjl/image/upload/v1767728661/67bf464ea5c96e5894f814b7_purple_bm9eny.png",
     "screenShotDarkPath": "/tmp/nudge/updateDark.png",
     "screenShotLightPath": "/tmp/nudge/updateLight.png",
-    "showDeferralCount": true,
+    "showDeferralCount": false,
     "simpleMode": false,
     "singleQuitButton": false,
     "showRequiredDate": true,
-    "showDeferralCount": false,
     "updateElements": [
       {
         "_language": "en",
