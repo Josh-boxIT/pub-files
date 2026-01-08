@@ -31,7 +31,7 @@
     "initialRefreshCycle": 7200,
     "maxRandomDelayInSeconds": 1200,
     "noTimers": false,
-    "nudgeRefreshCycle": 120,
+    "nudgeRefreshCycle": 240,
     "randomDelay": true
   },
   "userInterface": {
