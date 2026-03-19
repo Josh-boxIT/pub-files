@@ -1,0 +1,77 @@
+{
+  "optionalFeatures": {
+    "acceptableCameraUsage": true,
+    "acceptableScreenSharingUsage": true,
+    "aggressiveUserExperience": false,
+    "aggressiveUserFullScreenExperience": false,
+    "asynchronousSoftwareUpdate": false,
+    "attemptToFetchMajorUpgrade": true,
+    "enforceMinorUpdates": true,
+    "allowGracePeriods": true
+  },
+  "osVersionRequirements": [
+    {
+      "aboutUpdateURLs": [
+        {
+          "_language": "en",
+          "aboutUpdateURL": "https://support.apple.com/en-us/122868"
+        }
+      ],
+      "requiredInstallationDate": "2026-03-24T18:00:00",
+      "requiredMinimumOSVersion": "26.3.1",
+      "targetedOSVersionsRule": "26"
+    },
+    {
+      "aboutUpdateURLs": [
+        {
+          "_language": "en",
+          "aboutUpdateURL": "https://support.apple.com/en-us/126349"
+        }
+      ],
+      "requiredInstallationDate": "2026-03-24T18:00:00",
+      "requiredMinimumOSVersion": "15.7.4",
+      "targetedOSVersionsRule": "15"
+    }
+  ],
+  "userExperience": {
+    "allowedDeferrals": 1000000,
+    "allowedDeferralsUntilForcedSecondaryQuitButton": 15,
+    "approachingRefreshCycle": 6000,
+    "approachingWindowTime": 72,
+    "elapsedRefreshCycle": 300,
+    "initialRefreshCycle": 7200,
+    "maxRandomDelayInSeconds": 1200,
+    "noTimers": false,
+    "nudgeRefreshCycle": 240,
+    "randomDelay": true
+  },
+  "userInterface": {
+    "fallbackLanguage": "en",
+    "forceFallbackLanguage": true,
+    "showActivelyExploitedCVEs": false,
+    "forceScreenShotIcon": false,
+    "iconDarkPath": "https://res.cloudinary.com/dpjh8bhjl/image/upload/v1767728661/67bf464ea5c96e5894f814b7_duofam.png",
+    "iconLightPath": "https://res.cloudinary.com/dpjh8bhjl/image/upload/v1767728661/67bf464ea5c96e5894f814b7_purple_bm9eny.png",
+    "screenShotDarkPath": "/tmp/nudge/updateDark.png",
+    "screenShotLightPath": "/tmp/nudge/updateLight.png",
+    "showDeferralCount": false,
+    "simpleMode": false,
+    "singleQuitButton": false,
+    "showRequiredDate": true,
+    "updateElements": [
+      {
+        "_language": "en",
+        "actionButtonText": "Update Device",
+        "informationButtonText": "More Info",
+        "mainContentHeader": "Your device will restart during this update",
+        "mainContentNote": "**Important Notes**",
+        "mainContentSubHeader": "Updates can take around 45-60 minutes to complete.",
+        "mainContentText": "A fully up-to-date device is required to ensure that the IT team can protect our data.\n\nTo begin the update, simply click on the Update Device button and follow the prompts.\n\nFor more information, hit *More Info* in the bottom left corner of this window.",
+        "mainHeader": "Your device requires a macOS Security Update",
+        "primaryQuitButtonText": "Later",
+        "secondaryQuitButtonText": "I understand",
+        "subHeader": "A friendly reminder from your IT team"
+      }
+    ]
+  }
+}
