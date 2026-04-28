@@ -13,12 +13,23 @@
       "aboutUpdateURLs": [
         {
           "_language": "en",
-          "aboutUpdateURL": "https://support.apple.com/en-us/120283"
+          "aboutUpdateURL": "https://support.apple.com/en-us/122868"
         }
       ],
-      "requiredInstallationDate": "2026-04-06T00:00:00",
+      "requiredInstallationDate": "2026-05-08T18:00:00",
+      "requiredMinimumOSVersion": "26.4.1",
+      "targetedOSVersionsRule": "26"
+    },
+    {
+      "aboutUpdateURLs": [
+        {
+          "_language": "en",
+          "aboutUpdateURL": "https://support.apple.com/en-us/126349"
+        }
+      ],
+      "requiredInstallationDate": "2026-05-08T18:00:00",
       "requiredMinimumOSVersion": "15.7.5",
-      "targetedOSVersionsRule": "default"
+      "targetedOSVersionsRule": "15"
     }
   ],
   "userExperience": {
