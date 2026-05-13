@@ -16,8 +16,8 @@
           "aboutUpdateURL": "https://support.apple.com/en-us/122868"
         }
       ],
-      "requiredInstallationDate": "2026-05-08T18:00:00",
-      "requiredMinimumOSVersion": "26.4.1",
+      "requiredInstallationDate": "2026-05-27T18:00:00",
+      "requiredMinimumOSVersion": "26.5",
       "targetedOSVersionsRule": "26"
     },
     {
@@ -27,8 +27,8 @@
           "aboutUpdateURL": "https://support.apple.com/en-us/126349"
         }
       ],
-      "requiredInstallationDate": "2026-05-08T18:00:00",
-      "requiredMinimumOSVersion": "15.7.5",
+      "requiredInstallationDate": "2026-05-27T18:00:00",
+      "requiredMinimumOSVersion": "15.7.7",
       "targetedOSVersionsRule": "15"
     }
   ],
