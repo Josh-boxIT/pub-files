@@ -59,6 +59,11 @@
             "name": "Tailscale",
             "displayName": "Tailscale",
             "neededForCompliance": true
+        },
+        {
+            "name": "Claude",
+            "displayName": "Claude",
+            "neededForCompliance": false
         }
     ],
     "settings": {
