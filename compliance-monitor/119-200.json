@@ -51,11 +51,6 @@
             "neededForCompliance": true
         },
         {
-            "name": "SlashNextPhishingProtection",
-            "displayName": "SlashNext",
-            "neededForCompliance": true
-        },
-        {
             "name": "Okta Verify",
             "displayName": "Okta Verify",
             "neededForCompliance": true
