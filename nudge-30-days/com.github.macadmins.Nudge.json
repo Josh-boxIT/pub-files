@@ -39,7 +39,7 @@
           "aboutUpdateURL": "https://support.apple.com/en-us/100100"
         }
       ],
-      "requiredInstallationDate": "2026-10-14T00:00:01Z",
+      "requiredInstallationDate": "2026-10-14T00:00:01",
       "requiredMinimumOSVersion": "26.7",
       "targetedOSVersionsRule": "default"
     }
